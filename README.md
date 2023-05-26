@@ -31,7 +31,7 @@ To run tests
 ## Deployement
 
 ```bash
-  yarn deploy
+  yarn deploy -b deploy
 ```
 ## Screenshots
 
