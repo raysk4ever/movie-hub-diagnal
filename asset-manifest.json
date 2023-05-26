@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.90cc1fbe.css",
-    "main.js": "/static/js/main.0f446d73.js",
-    "static/js/900.b3455642.chunk.js": "/static/js/900.b3455642.chunk.js",
-    "static/js/95.be123aed.chunk.js": "/static/js/95.be123aed.chunk.js",
-    "index.html": "/index.html",
-    "main.90cc1fbe.css.map": "/static/css/main.90cc1fbe.css.map",
-    "main.0f446d73.js.map": "/static/js/main.0f446d73.js.map",
-    "900.b3455642.chunk.js.map": "/static/js/900.b3455642.chunk.js.map",
-    "95.be123aed.chunk.js.map": "/static/js/95.be123aed.chunk.js.map"
+    "main.css": "/movie-hub-diagnal/static/css/main.90cc1fbe.css",
+    "main.js": "/movie-hub-diagnal/static/js/main.5a6748b1.js",
+    "static/js/900.b3455642.chunk.js": "/movie-hub-diagnal/static/js/900.b3455642.chunk.js",
+    "static/js/95.be123aed.chunk.js": "/movie-hub-diagnal/static/js/95.be123aed.chunk.js",
+    "index.html": "/movie-hub-diagnal/index.html",
+    "main.90cc1fbe.css.map": "/movie-hub-diagnal/static/css/main.90cc1fbe.css.map",
+    "main.5a6748b1.js.map": "/movie-hub-diagnal/static/js/main.5a6748b1.js.map",
+    "900.b3455642.chunk.js.map": "/movie-hub-diagnal/static/js/900.b3455642.chunk.js.map",
+    "95.be123aed.chunk.js.map": "/movie-hub-diagnal/static/js/95.be123aed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90cc1fbe.css",
-    "static/js/main.0f446d73.js"
+    "static/js/main.5a6748b1.js"
   ]
 }
