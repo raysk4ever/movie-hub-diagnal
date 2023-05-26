@@ -8,7 +8,7 @@ import { ItemWrapper } from './styled'
 const ContentItem = ({ name, 'poster-image': posterImage }) => {
   return (
     <ItemWrapper>
-      <Image src={`/Slices/${posterImage}`} alt={name} loading="lazy" />
+      <Image src={`Slices/${posterImage}`} alt={name} loading="lazy" />
       <span>{name}</span>
     </ItemWrapper>
   )

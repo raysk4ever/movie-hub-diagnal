@@ -37,7 +37,7 @@ function Appbar() {
     <AppbarContainer>
       <SectionWrapper className='pr-0 flex-1'>
         {isSearchMode}
-        {isSearchMode && <img src='/Slices/back.png' alt='back-logo' onClick={handleToggleSarch} />}
+        {isSearchMode && <img src='Slices/Back.png' alt='back-logo' onClick={handleToggleSarch} />}
         <Name
           ref={searchRef}
           placeholder='Type Here...'
@@ -47,7 +47,7 @@ function Appbar() {
         />
       </SectionWrapper>
       <SectionWrapper>
-        <img src={'/Slices/search.png'} alt={'search'} onClick={handleToggleSarch} />
+        <img src={'Slices/search.png'} alt={'search'} onClick={handleToggleSarch} />
       </SectionWrapper>
     </AppbarContainer>
     <SearchMask />

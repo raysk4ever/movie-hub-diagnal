@@ -7,7 +7,7 @@ import { Container } from "./styled"
 const SearchPlaceHolder = () => {
   return (
     <Container>
-      <Image src='/favicon.ico' />
+      <Image src='favicon.ico' />
       <h1>Get Your Dream Movie Here</h1>
     </Container>
   )

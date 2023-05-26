@@ -11,7 +11,7 @@ function Image ({ src, alt='', loading = 'lazy' }) {
       alt={alt}
       loading={loading}
       onError={(event) => {
-        event.target.src = '/Slices/placeholder_for_missing_posters.png'
+        event.target.src = 'Slices/placeholder_for_missing_posters.png'
       }}
     />
   )

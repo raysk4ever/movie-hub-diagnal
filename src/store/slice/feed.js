@@ -24,7 +24,7 @@ const initialState = {
 export const fetchMovies = createAsyncThunk(FETCH_POSTS, async (args, { getState, dispatch }) => {
   const { feed } = getState()
   dispatch(nextPage())
-  const response = await axios.get(`/API/CONTENTLISTINGPAGE-PAGE${feed.page}.json`)
+  const response = await axios.get(`API/CONTENTLISTINGPAGE-PAGE${feed.page}.json`)
   return response.data
 })
 

@@ -22,6 +22,6 @@ export default MovieItems
 // Fallback Placeholder for missing poster images
 const Fallback = () => {
   return (
-    <img src='/Slices/placeholder_for_missing_posters.png' alt="fallback" />
+    <img src='Slices/placeholder_for_missing_posters.png' alt="fallback" />
   )
 }

@@ -1,7 +1,7 @@
 import { styled } from "styled-components"
 
 export const AppbarContainer = styled.div`
-  background-image: url('/Slices/nav_bar.png');
+  background-image: url('Slices/nav_bar.png');
   display: flex;
   justify-content: space-between;
   height: 70px;
@@ -10,7 +10,7 @@ export const AppbarContainer = styled.div`
   z-index: 1;
 `
 export const SearchMask = styled.div`
-  background-image: url('/Slices/nav_bar.png');
+  background-image: url('Slices/nav_bar.png');
   position: fixed;
   width: 100%;
   height: 41px;
